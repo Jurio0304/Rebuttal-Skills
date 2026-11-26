@@ -1,14 +1,23 @@
-# Rebuttal-Skills
+<p align="center"><img src="assets/rebuttal-skills-cover.png" alt="Rebuttal-Skills cover showing a research team working through reviewer comments, experiments and an author response." width="880">
+</p>
 
-I built Rebuttal-Skills from three of my own rebuttals, each of which ended with a total score gain of at least three points, and from a study of 330 ICLR submissions that met the same threshold.
+<h1 align="center">Rebuttal-Skills</h1>
 
-**English** · [简体中文](README.zh-CN.md) · [Installation](#installation) · [Basic usage](#basic-usage) · [Worked example](examples/sorting/README.md)
+<p align="center"><strong>I built this skill for planning experiments, drafting author responses, and rehearsing with simulated reviewers, drawing on my own rebuttals and 330 ICLR submissions whose scores rose during discussion.</strong></p>
 
-[![MIT License](https://img.shields.io/badge/License-MIT-28613c)](LICENSE)
-[![Codex Skill](https://img.shields.io/badge/Codex-Skill-245b78)](skills/rebuttal/SKILL.md)
-[![GitHub Stars](https://img.shields.io/github/stars/Jurio0304/Rebuttal-Skills?style=social)](https://github.com/Jurio0304/Rebuttal-Skills/stargazers)
+<p align="center"><strong>English</strong> · <a href="README.zh-CN.md">简体中文</a> · <a href="#installation">Installation</a> · <a href="#basic-usage">Basic usage</a> · <a href="examples/sorting/README.md">Worked example</a></p>
+
+<p align="center"><a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-28613c" alt="MIT License"></a>
+<a href="skills/rebuttal/SKILL.md"><img src="https://img.shields.io/badge/Codex-Skill-245b78" alt="Codex Skill"></a>
+<a href="#claude-code"><img src="https://img.shields.io/badge/Claude_Code-Setup-b05b37" alt="Claude Code"></a>
+<a href="https://github.com/Jurio0304/Rebuttal-Skills/stargazers"><img src="https://img.shields.io/github/stars/Jurio0304/Rebuttal-Skills?style=social" alt="GitHub Stars"></a>
+<a href="https://github.com/Jurio0304/Rebuttal-Skills/forks"><img src="https://img.shields.io/github/forks/Jurio0304/Rebuttal-Skills?style=social" alt="GitHub Forks"></a></p>
+
+---
 
 ## What is Rebuttal-Skills?
+
+Across my ICML, NeurIPS, and ICLR submissions, the total reviewer scores rose by four, four, and three points respectively. I wanted to share how I chose the experiments and wrote the replies that went into those discussions.
 
 Rebuttal-Skills gives an AI assistant a set of instructions for working with you on a conference rebuttal. Give it your submitted paper, the reviews, and the response rules for your track. You can ask it to help you choose one experiment, draft an answer to one reviewer, or follow the discussion through to the manuscript revision.
 

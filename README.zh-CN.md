@@ -1,15 +1,25 @@
-# Rebuttal-Skills
+<p align="center"><img src="assets/rebuttal-skills-cover.png" alt="Rebuttal-Skills 封面：研究者围绕评审意见、实验结果和作者回复展开讨论。" width="880">
+</p>
 
-[English](README.md) · **简体中文**  
-[![MIT License](https://img.shields.io/badge/License-MIT-28613c)](LICENSE) [![GitHub Stars](https://img.shields.io/github/stars/Jurio0304/Rebuttal-Skills?style=social)](https://github.com/Jurio0304/Rebuttal-Skills/stargazers)
+<h1 align="center">Rebuttal-Skills</h1>
 
-我把自己在 ICML、NeurIPS 和 ICLR 写 rebuttal 的亲身经验整理成了这个 Skill。这三次投稿在讨论后的审稿总分分别提高了 **4 分、4 分和 3 分**。为了让它也能用在其他研究方向上，我又参考了 **330 篇 ICLR 高提分投稿**的公开讨论。
+<p align="center"><strong>我把自己的顶会 rebuttal 经验和 330 篇 ICLR 高提分投稿的公开讨论，整理成了一个能帮作者选实验、写回复、做模拟复审的 Skill。</strong></p>
 
-我拿到评审意见后，一般先弄清楚每个人对论文的哪一点还有疑虑。同样一句“请补一个 baseline”，有人关心比较是否公平，有人想知道这个方法在真实使用中值不值得。我把从读评审、选实验到动笔回复的这段过程也放进了 Skill 里。
+<p align="center"><a href="README.md">English</a> · <strong>简体中文</strong> · <a href="#%E6%88%91%E7%9A%84-rebuttal-%E7%BB%8F%E5%8E%86">我的投稿经历</a> · <a href="#%E5%85%AB%E4%B8%AA%E9%98%B6%E6%AE%B5">八个阶段</a> · <a href="#%E5%AE%89%E8%A3%85">安装</a> · <a href="#%E4%BD%BF%E7%94%A8%E7%A4%BA%E4%BE%8B">使用示例</a> · <a href="examples/sorting/README.md">完整演示</a></p>
 
-[我的投稿经历](#我的-rebuttal-经历) · [八个阶段](#八个阶段) · [安装](#安装) · [使用示例](#使用示例) · [完整演示](examples/sorting/README.md)
+<p align="center"><a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-28613c" alt="MIT License"></a>
+<a href="skills/rebuttal/SKILL.md"><img src="https://img.shields.io/badge/Codex-Skill-245b78" alt="Codex Skill"></a>
+<a href="#%E6%96%B9%E5%BC%8F%E4%BA%8C%E5%9C%A8-claude-code-%E9%87%8C%E7%94%A8"><img src="https://img.shields.io/badge/Claude_Code-Setup-b05b37" alt="Claude Code"></a>
+<a href="https://github.com/Jurio0304/Rebuttal-Skills/stargazers"><img src="https://img.shields.io/github/stars/Jurio0304/Rebuttal-Skills?style=social" alt="GitHub Stars"></a>
+<a href="https://github.com/Jurio0304/Rebuttal-Skills/forks"><img src="https://img.shields.io/github/forks/Jurio0304/Rebuttal-Skills?style=social" alt="GitHub Forks"></a></p>
+
+---
 
 ## 这个 Skill 是做什么的？
+
+我在 ICML、NeurIPS 和 ICLR 的三次投稿，讨论后的审稿总分分别提高了 **4 分、4 分和 3 分**。
+
+我拿到评审意见后，一般先弄清楚每个人对论文的哪一点还有疑虑。同样一句“请补一个 baseline”，有人关心比较是否公平，有人想知道这个方法在真实使用中值不值得。我把从读评审、选实验到动笔回复的这段过程也放进了 Skill 里。
 
 它可以在 Codex 或 Claude Code 里陪你走完一次 rebuttal。把投稿版论文、评审意见和当届会议的回复要求放在论文工作区，先让它逐人梳理问题，和你一起定实验，再拿实际结果写回复。如果已经写好了，也可以直接让它做一次模拟复审。
 
