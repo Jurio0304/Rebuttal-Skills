@@ -119,3 +119,13 @@ The venue guides cover ICML 2026, NeurIPS 2026, ICLR 2027, and AAAI-27. Each poi
 My thanks to [@956961](https://github.com/956961).
 
 I also thank the following open-source projects. [Awesome Rebuttal](https://github.com/xiongqi123123/awesome-rebuttal) · [ARIS](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) · [CCFA-Skills](https://github.com/mikubaka88/CCFA-Skills) · [CCF-A-Skills](https://github.com/kay-kuo/CCF-A-Skills) · [Rebuttal-Skill](https://github.com/TobiasLee/Rebuttal-Skill) · [Review2Rebuttal](https://github.com/Henryhe09/Review2Rebuttal)
+
+## Star History
+
+<a href="https://www.star-history.com/#Jurio0304/Rebuttal-Skills&amp;Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Jurio0304/Rebuttal-Skills&amp;type=Date&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Jurio0304/Rebuttal-Skills&amp;type=Date" />
+    <img alt="GitHub stars over time for Rebuttal-Skills" src="https://api.star-history.com/svg?repos=Jurio0304/Rebuttal-Skills&amp;type=Date" />
+  </picture>
+</a>

@@ -151,3 +151,13 @@ fi
 特别感谢研究者 [@956961](https://github.com/956961)。
 
 也感谢以下开源项目。 [Awesome Rebuttal](https://github.com/xiongqi123123/awesome-rebuttal) · [ARIS](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) · [CCFA-Skills](https://github.com/mikubaka88/CCFA-Skills) · [CCF-A-Skills](https://github.com/kay-kuo/CCF-A-Skills) · [Rebuttal-Skill](https://github.com/TobiasLee/Rebuttal-Skill) · [Review2Rebuttal](https://github.com/Henryhe09/Review2Rebuttal)
+
+## Star History
+
+<a href="https://www.star-history.com/#Jurio0304/Rebuttal-Skills&amp;Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Jurio0304/Rebuttal-Skills&amp;type=Date&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Jurio0304/Rebuttal-Skills&amp;type=Date" />
+    <img alt="Rebuttal-Skills 的 GitHub Star 增长曲线" src="https://api.star-history.com/svg?repos=Jurio0304/Rebuttal-Skills&amp;type=Date" />
+  </picture>
+</a>
